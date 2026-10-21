@@ -1,4 +1,12 @@
-<!-- Generated with: /thing-explainer https://www.php2shell.com/ -->
+> **Source:** [PHP2Shell](https://www.php2shell.com/), a family of critical
+> memory-safety bugs in core PHP (CVSS 9.2) that can allow unauthenticated
+> remote code execution and memory disclosure.
+>
+> **Generated with:** `/thing-explainer https://www.php2shell.com/`
+>
+> Everything below the line uses only the ten hundred most common words.
+
+---
 
 # Big Hole in the Page Maker
 
